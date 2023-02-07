@@ -4,6 +4,7 @@
 ### ingredience
 
 
+[I'm an inline-style link](https://www.google.com)
 
 
 1. First ordered list item
@@ -22,3 +23,5 @@
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
