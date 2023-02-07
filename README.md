@@ -1,5 +1,5 @@
 # digital-electronics
-# Spagety
+# ~~Spagety~~
 ## Recepty
 ### ingredience
 
