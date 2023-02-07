@@ -4,7 +4,7 @@
 ### ingredience
 
 
-[I'm an inline-style link](https://www.google.com)
+[GOOGLE](https://www.google.com)
 
 
 1. First ordered list item
