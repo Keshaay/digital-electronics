@@ -6,11 +6,11 @@
 
    Greater than:
 
-   ![K-maps]![greater](https://user-images.githubusercontent.com/95315728/219972914-ef380798-ca1d-4167-b6f7-c9a5fed4564a.jpg)
+   ![greater](https://user-images.githubusercontent.com/95315728/219972914-ef380798-ca1d-4167-b6f7-c9a5fed4564a.jpg)
 
    Less than:
 
-   ![K-maps]![Less](https://user-images.githubusercontent.com/95315728/219972929-7c364126-ab1a-44bd-9881-ee03b94f0fd2.jpg)
+   ![Less](https://user-images.githubusercontent.com/95315728/219972929-7c364126-ab1a-44bd-9881-ee03b94f0fd2.jpg)
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
