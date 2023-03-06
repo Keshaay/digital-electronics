@@ -45,4 +45,4 @@ LED(7) <=  '1' when SW = ("0001" or "0010" or "0100" or "1000") else '0';
 
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![seg](https://user-images.githubusercontent.com/95315728/223214395-cd7db47e-0e48-408f-9a28-0835770aecac.png)
