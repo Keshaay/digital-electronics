@@ -61,8 +61,11 @@ begin
       elsif (en = '1') then         -- Test if counter is enabled
 
         -- TEST COUNTER DIRECTION HERE
-
-          sig_cnt <= sig_cnt + 1;
+              if (cnt_up = '1') then        -- Decide direction
+            sig_cnt <= sig_cnt + 1;   -- Count up
+          else
+            sig_cnt <= sig_cnt - 1;   -- Count down
+			end if;
       end if;
     end if;
 
